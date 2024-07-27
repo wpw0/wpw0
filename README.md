@@ -1,4 +1,5 @@
-## WGU Computer Science student, seeking a BS projected August, 2025
+## WGU Computer Science student
+In pursuit of a BS projected August, 2025.
 
 <!--
 **wpw0/wpw0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
